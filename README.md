@@ -4,6 +4,20 @@
 
 일 시: 2023.10.13(금) 오전 9시 20분~18시
 
-## 1일차
 
-### AI 역사 - CNN - RNN - LSTM - transformer 개념 설명 및 실습
+## 1일차
+### Recurrent Neural Network and Transformer
+-  AI 역사 - CNN - RNN - LSTM - transformer 개념 설명 및 실습
+
+## 2일차
+### Reinforcement Learing
+- 강화학습
+
+## 3일차
+### drone
+-  드론 역사 - ai를 적용한 드론 예시 - 만든 코드로 드론 작동 확인 
+
+## 4일차
+### Generative Model-Diffusion Model, Large Language Model
+- transformer 개념 - diffusion model - train 
+
