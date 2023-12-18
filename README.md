@@ -21,3 +21,5 @@
 ### Generative Model-Diffusion Model, Large Language Model
 - transformer 개념 - diffusion model - train 
 
+# 수료증
+<img width="509" alt="스크린샷 2023-12-18 오후 5 13 20" src="https://github.com/geon0430/Kaist-Machine-learning-and-big-data-course_Public/assets/114966864/499d10fb-bb07-4832-8c0a-3d5b5cf9f8a6">
